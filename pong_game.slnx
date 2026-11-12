@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="pong_game.vcxproj" Id="a0c879a4-c0fd-428f-bdca-6f876ba55b70" />
+</Solution>
